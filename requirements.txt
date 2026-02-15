@@ -1,0 +1,5 @@
+streamlit
+openai
+pymupdf #package for handling PDF files
+python-dotenv
+apify-client #package for handling Apify API calls 
